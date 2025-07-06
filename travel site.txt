@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="The landing site for Travel Agency">
+  </head>
+  <body>
+    <h1>Travel To Beautiful Upstate NY</h1>
+    <p>There's more to our great state than just the city we're named for! From the mountains to the Valleys, we have something for everyone</p>
+    <h2>Packages</h2>
+    <p>Boom, packages. We got options to consider, ya heard? </p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Proctors Theater"></a>
+      <figcaption>Proctors Theater In Schenectady</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The Adirondaks"></a>
+      <figcaption>The Adirondack Mountain Rage as seen from Glens Falls</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Scenic Lake George"></a>
+      <figcaption>Scenic Lake George</figcaption>
+    </figure>
+  </body>
+</html>
+
+** end of index.html **
+
